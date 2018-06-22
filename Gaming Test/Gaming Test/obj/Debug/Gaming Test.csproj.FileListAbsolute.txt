@@ -1,0 +1,7 @@
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\bin\Debug\Gaming Test.exe.config
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\bin\Debug\Gaming Test.exe
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\bin\Debug\Gaming Test.pdb
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\obj\Debug\Gaming Test.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\obj\Debug\Gaming Test.csproj.CoreCompileInputs.cache
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\obj\Debug\Gaming Test.exe
+C:\Users\ClevelandCodes\source\repos\Gaming Test\Gaming Test\obj\Debug\Gaming Test.pdb

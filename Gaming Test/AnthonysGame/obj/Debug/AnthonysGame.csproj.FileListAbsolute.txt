@@ -1,0 +1,2 @@
+C:\Users\ClevelandCodes\source\repos\Gaming Test\AnthonysGame\obj\Debug\AnthonysGame.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\source\repos\Gaming Test\AnthonysGame\obj\Debug\AnthonysGame.csproj.CoreCompileInputs.cache
